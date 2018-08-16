@@ -39,7 +39,7 @@ n个# + 空格 + 标题名称
 ```
 ## 链接
 ```
-[会显示出来的描述](跳转网址), 如[百度一下](https://www.baidu.com/)
+[描述](网址), 如[百度一下](https://www.baidu.com/)
 ```
 [百度一下](https://www.baidu.com/)
 

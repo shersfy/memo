@@ -58,8 +58,6 @@
 ```
 语法：
 ![加载失败时显示](图片网址)
-例：
-![加载失败](https://github.com/shersfy/memo/blob/master/imgs/timg.jpg)
 ```
 ![加载失败](https://github.com/shersfy/memo/blob/master/imgs/timg.jpg)
 

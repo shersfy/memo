@@ -51,17 +51,6 @@
 ```
 [百度一下](https://www.baidu.com/)
 
-
-## 图片
-推荐将readme.md里面要展示的图片放到仓库里面，调用图片链接；
-也可以直接调用网络上已经有的图片地址。
-```
-语法：
-![加载失败时显示](图片网址)
-```
-![加载失败](https://github.com/shersfy/memo/blob/master/imgs/timg.jpg)
-
-
 ## 目录
 ```
 * [横线](#横线)
@@ -73,13 +62,14 @@
     * 文字高亮
 ```
 
-
-
-
-
-
-
-
+## 图片
+推荐将readme.md里面要展示的图片放到仓库里面，调用图片链接；
+也可以直接调用网络上已经有的图片地址。
+```
+语法：
+![加载失败时显示](图片网址)
+```
+![加载失败](https://github.com/shersfy/memo/blob/master/imgs/timg.jpg)
 
 
 
